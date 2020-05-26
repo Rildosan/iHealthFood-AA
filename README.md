@@ -19,15 +19,15 @@ Os próximos passos é descoberta dos itens de contexto de negócio, a ideia pre
 O desafio que o Analista de Negócio Ágil deve se concentrar é fazer a Fase de Design da Solução. Essa fase é composta por um conjunto de artefatos que descrevem como a solução foi pensada, planejada e como será executada.
 
 Artefatos que devem ser feitos:<BR>
-**Valor:**
+-**Valor:**
 - Modelo de Negócio da Solução: - Este modelo mostra como a empresa captura valor gerado pela solução
 - Canvas da Proposta de Valor: - O canvas demonstra como a solução entrega valor para os clientes.<BR>
-**Regras de Negócio:**
+-**Regras de Negócio:**
 - Lista de Regras de Negócio<BR>
-**Solução:**
+-**Solução:**
 - Visão da Solução já esta pronta!
 - Backlog da Solução: Lista de todos os requisitos e demais itens que são relevante para desenvolvimento da Solução<BR>
-**Plano de Release das Entregas:**
+-**Plano de Release das Entregas:**
 - Plano com serão as entregas incrementais do produto/serviço
 
 Você poderá trabalhar sozinho, pois isso é comum em algumas empresas, mas poderá convidar seus amigos para ajuda-lo, antes
@@ -35,7 +35,6 @@ de fazer desafio aprofunda-se no entendimento do problemas na pasta de __Produto
 
 Recomendamos a leitura dos arefatos de negócio devem ser lidos e compreendidos, eles estão na pasta __Negócio__ isso ajuda no entendimento dos requisitos, são eles:
 - **Business Story**: Declaração do Problema 
-- **Modelo de Negócio**: Mostra a lógica de negócio e como será gerado valor com iHealthFood
 - **Business Value**: Demonstra qual é valor de negócio que o iHealthFood deverá gerar.
 - **Mapa de Fluxo de Valor**: Mostra quais as atividades devem ser feitas para garantir a geração de valor
 
