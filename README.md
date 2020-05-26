@@ -35,12 +35,19 @@ Visão da Solução já esta pronta!<BR>
  Plano com serão as entregas incrementais do produto/serviço
 <BR>
 <BR>
+<B>Visão de Negócio:</B>
 Antes de fazer os desafios, você deve se aprofundar no entendimento do problema, recomendamos a leitura dos arefatos de negócio, eles devem ser lidos e compreendidos, eles estão na pasta __Negócio__, são eles:
 - **Business Story**: Declaração do Problema 
 - **Business Value**: Demonstra qual é valor de negócio que o iHealthFood deverá gerar.
 - **Mapa de Fluxo de Valor**: Mostra quais as atividades devem ser feitas para garantir a geração de valor
+<BR>
+<B>Visão de Pessoas</B>
+ Você deverá conhecer a Visão de Pessoas, faça a leitura dos artefatos que estão na pasta __Pessoas__:
+- **Mapa da Jornada do Usuário**
+- **Mapa de Personas**
+- **Lista de Pessoas Interessadas**
 
-Para que você exercite suas habilidades de Análise de Negócio Ágil propomos 5 desafios:
+Para você exercitar suas habilidades de Análise de Negócio Ágil propomos 5 desafios:
 
 **Desafio-1 – Construção do Modelo de Negócio da Solução**
 
