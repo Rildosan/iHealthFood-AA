@@ -7,15 +7,15 @@
 **Para pessoas que tem intolerância a glúten e/ou lactose o iHealthFood é um serviço de entrega exclusivo através de aplicativo móvel e web, intuitivo, seguro e fácil de usar que oferece a possibilidade de encontrar os melhores restaurantes que fornecem comidas e pratos deliciosos sem glúten e sem lactose.Diferente de outros, nosso serviço é dedicado para clientes que se necessitam comprar alimentos sem glúten e sem lactose.**
 
 # Desafios de Análise de Negócio Ágil:
-**Objetivo primário dos Desafios é fazer Discovery e Design para construção de Solução que gere valor paa as pessoas utilizando técnicas de Análise de Negócio e Práticas Ágeis.** 
+Análise de Negócio Ágil é composta pelas fases: **Discovery** e **Design**. Neste projeto a fase de Discovery com seus artefatos já está pronta, falta a fase de Design.
 
-**Neste projeto a fase de Discovery já está pronta:**
+**Fase de Discovery:**
 O trabalho do Analista de Negócio Ágil começa na Fase de Discovery: Mais precisamente na identificação do problema de negócio através da Business Story (História de Negócio) que é um artefato que descreve em linhas gerais a declaração do problema.
 Em seguida é descoberto quem são as partes interessadas e qual valor elas esperam da solução. O valor é traduzido em termos de beneficios e/ou ganhos.
 Os próximos passos é descoberta dos itens de contexto de negócio, a ideia preliminar de solução e quais são os requisitos de mudanças que são necessários para que a solução de negócio seja implementada com sucesso.
 
+**Objetivo primário deste Desafio é desenvolver a fase de Design da Solução e seus artefatos para construção de Solução que gere valor paa as pessoas utilizando técnicas de Análise de Negócio e Práticas Ágeis.** 
 O desafio que o Analista de Negócio Ágil deve se concentrar é fazer a Fase de Design da Solução. Essa fase é composta por um conjunto de artefatos que descrevem como a solução foi pensada, planejada e como será executada.
-
 
 
 
