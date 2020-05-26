@@ -36,13 +36,13 @@ Visão da Solução já esta pronta!<BR>
 <BR>
 <BR>
 <B>Visão de Negócio:</B>
-Antes de fazer os desafios, você deve se aprofundar no entendimento do problema, recomendamos a leitura dos arefatos de negócio, eles devem ser lidos e compreendidos, eles estão na pasta __Negócio__, são eles:
-- **Business Story**: Declaração do Problema 
-- **Business Value**: Demonstra qual é valor de negócio que o iHealthFood deverá gerar.
-- **Mapa de Fluxo de Valor**: Mostra quais as atividades devem ser feitas para garantir a geração de valor
+Antes de fazer os desafios, você deve se aprofundar no entendimento do problema, recomendamos a leitura dos arefatos de negócio, eles devem ser lidos e compreendidos, eles estão na pasta <B>Negócio</B>:<BR>
+- <B>Business Story</B>: Declaração do Problema <BR>
+- <B>Business Value</B>: Demonstra qual é valor de negócio que o iHealthFood deverá gerar.
+- <B>Mapa de Fluxo de Valor</B>: Mostra quais as atividades devem ser feitas para garantir a geração de valor
 <BR>
 <B>Visão de Pessoas</B>
- Você deverá conhecer a Visão de Pessoas, faça a leitura dos artefatos que estão na pasta <B>Pessoas</B><BR>
+ Você deverá conhecer a Visão de Pessoas, faça a leitura dos artefatos que estão na pasta <B>Pessoas:</B><BR>
 - <B>Mapa da Jornada do Usuário</B><BR>
 - <B>Mapa de Personas</B><BR>
 - <B>Lista de Pessoas Interessadas</B><BR>
