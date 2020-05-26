@@ -33,7 +33,7 @@ Canvas da Proposta de Valor: - O canvas demonstra como a solução entrega valor
 **Plano de Release das Entregas:**<BR>
 - Plano com serão as entregas incrementais do produto/serviço
 <BR>
-
+<BR>
 Você poderá trabalhar sozinho, pois isso é comum em algumas empresas, mas poderá convidar seus amigos para ajuda-lo, antes
 de fazer desafio aprofunda-se no entendimento do problemas na pasta de __Produto__:
 
