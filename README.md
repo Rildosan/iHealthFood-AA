@@ -27,7 +27,8 @@ Artefatos que devem ser feitos:<BR>
  Lista de Regras de Negócio<BR>
 <BR>
 <B>Solução:</B><BR>
-Visão da Solução já esta pronta!
+Visão da Solução já esta pronta!<BR>
+ Definição do MVP (Produto Mínimo Viável) da Solução<BR>
  Backlog da Solução: Lista de todos os requisitos e demais itens que são relevante para desenvolvimento da Solução<BR>
 <BR>
 <B>Plano de Release das Entregas:</B><BR>
@@ -47,7 +48,7 @@ Para que você exercite suas habilidades de Análise de Negócio Ágil propomos 
 
 **Desafio-3 - Especificação de Regras de Negócio**<BR>
 
-**Desafio-4 - Construir o Backlog da Solução**<BR>
+**Desafio-4 - Construção do MVP e do Backlog da Solução**<BR>
 
-**Desafio-5 - Desenvolver Plano de Release de Entregas**<BR>
+**Desafio-5 - Desenvolvimento do Plano de Release de Entregas**<BR>
 
