@@ -21,7 +21,7 @@ O desafio que o Analista de Negócio Ágil deve se concentrar é fazer a Fase de
 Artefatos que devem ser feitos:<BR>
 **Valor:**
 - Modelo de Negócio da Solução: - Este modelo mostra como a empresa captura valor gerado pela solução
-- Canvas da Proposta de Valor: - O canvas demonstra como a solução entrega valor para os clientes.
+- Canvas da Proposta de Valor: - O canvas demonstra como a solução entrega valor para os clientes.<BR>
 **Regras de Negócio:**
 - Lista de Regras de Negócio
 **Solução:**
