@@ -34,7 +34,7 @@ Visão da Solução já esta pronta!
  Plano com serão as entregas incrementais do produto/serviço
 <BR>
 <BR>
-Antes de fazer os desafios, você deve se aprofundar no entendimento do problemas recomendamos a leitura dos arefatos de negócio, eles devem ser lidos e compreendidos, eles estão na pasta __Negócio__, são eles:
+Antes de fazer os desafios, você deve se aprofundar no entendimento do problema, recomendamos a leitura dos arefatos de negócio, eles devem ser lidos e compreendidos, eles estão na pasta __Negócio__, são eles:
 - **Business Story**: Declaração do Problema 
 - **Business Value**: Demonstra qual é valor de negócio que o iHealthFood deverá gerar.
 - **Mapa de Fluxo de Valor**: Mostra quais as atividades devem ser feitas para garantir a geração de valor
