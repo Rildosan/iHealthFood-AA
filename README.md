@@ -34,7 +34,7 @@ Visão da Solução já esta pronta!
  Plano com serão as entregas incrementais do produto/serviço
 <BR>
 <BR>
-Antes de fazer desafio aprofunda-se no entendimento do problemas na pasta de __Produto__:
+Antes de fazer os desafios, você deve se aprofundar no entendimento do problemas na pasta de __Produto__:
 
 Recomendamos a leitura dos arefatos de negócio devem ser lidos e compreendidos, eles estão na pasta __Negócio__ isso ajuda no entendimento dos requisitos, são eles:
 - **Business Story**: Declaração do Problema 
