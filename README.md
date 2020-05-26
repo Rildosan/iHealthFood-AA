@@ -36,7 +36,7 @@ Visão da Solução já esta pronta!<BR>
 <BR>
 <BR>
 <B>Visão de Negócio:</B><BR>
-Antes de fazer os desafios, você deve se aprofundar no entendimento do problema, recomendamos a leitura dos arefatos de negócio, eles devem ser lidos e compreendidos, eles estão na pasta <B>Negócio</B>:<BR>
+Antes de fazer os desafios, você deve se aprofundar no entendimento do problema, recomendamos a leitura dos artefatos de negócio, eles devem ser lidos e compreendidos, eles estão na pasta <B>Negócio</B>:<BR>
 -<B>Business Story</B>: Declaração do Problema <BR>
 -<B>Business Value</B>: Demonstra qual é valor de negócio que o iHealthFood deverá gerar. <BR>
 -<B>Mapa de Fluxo de Valor</B>: Mostra quais as atividades devem ser feitas para garantir a geração de valor<BR>
