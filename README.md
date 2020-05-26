@@ -23,10 +23,10 @@ Artefatos que devem ser feitos:<BR>
 - Modelo de Negócio da Solução: - Este modelo mostra como a empresa captura valor gerado pela solução
 - Canvas da Proposta de Valor: - O canvas demonstra como a solução entrega valor para os clientes.<BR>
 **Regras de Negócio:**
-- Lista de Regras de Negócio
+- Lista de Regras de Negócio<BR>
 **Solução:**
 - Visão da Solução já esta pronta!
-- Backlog da Solução: Lista de todos os requisitos e demais itens que são relevante para desenvolvimento da Solução
+- Backlog da Solução: Lista de todos os requisitos e demais itens que são relevante para desenvolvimento da Solução<BR>
 **Plano de Release das Entregas:**
 - Plano com serão as entregas incrementais do produto/serviço
 
