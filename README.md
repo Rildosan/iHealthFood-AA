@@ -35,7 +35,7 @@ Visão da Solução já esta pronta!<BR>
  Plano com serão as entregas incrementais do produto/serviço
 <BR>
 <BR>
-<B>Visão de Negócio:</B>
+<B>Visão de Negócio:</B><BR>
 Antes de fazer os desafios, você deve se aprofundar no entendimento do problema, recomendamos a leitura dos arefatos de negócio, eles devem ser lidos e compreendidos, eles estão na pasta <B>Negócio</B>:<BR>
 -<B>Business Story</B>: Declaração do Problema <BR>
 -<B>Business Value</B>: Demonstra qual é valor de negócio que o iHealthFood deverá gerar. <BR>
