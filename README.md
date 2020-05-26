@@ -42,7 +42,7 @@ Antes de fazer os desafios, você deve se aprofundar no entendimento do problema
 - **Mapa de Fluxo de Valor**: Mostra quais as atividades devem ser feitas para garantir a geração de valor
 <BR>
 <B>Visão de Pessoas</B>
- Você deverá conhecer a Visão de Pessoas, faça a leitura dos artefatos que estão na pasta <B>Pessoas</B>
+ Você deverá conhecer a Visão de Pessoas, faça a leitura dos artefatos que estão na pasta <B>Pessoas</B><BR>
 - <B>Mapa da Jornada do Usuário</B><BR>
 - <B>Mapa de Personas</B><BR>
 - <B>Lista de Pessoas Interessadas</B><BR>
