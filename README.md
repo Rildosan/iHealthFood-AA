@@ -42,11 +42,11 @@ Antes de fazer os desafios, você deve se aprofundar no entendimento do problema
 - **Mapa de Fluxo de Valor**: Mostra quais as atividades devem ser feitas para garantir a geração de valor
 <BR>
 <B>Visão de Pessoas</B>
- Você deverá conhecer a Visão de Pessoas, faça a leitura dos artefatos que estão na pasta __Pessoas__:
-- **Mapa da Jornada do Usuário**
-- **Mapa de Personas**
-- **Lista de Pessoas Interessadas**
-
+ Você deverá conhecer a Visão de Pessoas, faça a leitura dos artefatos que estão na pasta <B>Pessoas</B>
+- <B>Mapa da Jornada do Usuário</B><BR>
+- <B>Mapa de Personas</B><BR>
+- <B>Lista de Pessoas Interessadas</B><BR>
+<BR>
 Para você exercitar suas habilidades de Análise de Negócio Ágil propomos 5 desafios:
 
 **Desafio-1 – Construção do Modelo de Negócio da Solução**
