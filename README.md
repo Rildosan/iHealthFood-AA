@@ -10,16 +10,18 @@
 Análise de Negócio Ágil é composta pelas fases: **Discovery** e **Design**. Neste projeto a fase de Discovery com seus artefatos já está pronta, falta a fase de Design.
 
 **Fase de Discovery:**
+
 O trabalho do Analista de Negócio Ágil começa na Fase de Discovery: Mais precisamente na identificação do problema de negócio através da Business Story (História de Negócio) que é um artefato que descreve em linhas gerais a declaração do problema.
 Em seguida é descoberto quem são as partes interessadas e qual valor elas esperam da solução. O valor é traduzido em termos de beneficios e/ou ganhos.
 Os próximos passos é descoberta dos itens de contexto de negócio, a ideia preliminar de solução e quais são os requisitos de mudanças que são necessários para que a solução de negócio seja implementada com sucesso.
 
 **Objetivo primário deste Desafio é desenvolver a fase de Design da Solução e seus artefatos para construção de Solução que gere valor paa as pessoas utilizando técnicas de Análise de Negócio e Práticas Ágeis.** 
+
 O desafio que o Analista de Negócio Ágil deve se concentrar é fazer a Fase de Design da Solução. Essa fase é composta por um conjunto de artefatos que descrevem como a solução foi pensada, planejada e como será executada.
 
 
 
-: Visão e Backlog do Serviço estão prontos, geralmente este trabalho acontece em um Workshop de Requisitos para descobrir os requisitos, entender as pessoas, entender o negócio e especificar os requisitos. 
+Visão e Backlog do Serviço estão prontos, geralmente este trabalho acontece em um Workshop de Requisitos para descobrir os requisitos, entender as pessoas, entender o negócio e especificar os requisitos. 
 O workshop deve ser colaborativo, ou seja, participam o Dono de Negócio, Desenvolvedores e Testadores de forma ativa.
 
 Contudo, aqui você trabalhará sozinho, isso é comum em algumas empresas, existe a opção de chamar seus amigos para ajuda-lo, antes
