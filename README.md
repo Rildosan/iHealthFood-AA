@@ -1,15 +1,25 @@
 # iHealthFood
-É um projeto de plataforma de negócio digital multilateral, envolve B2C e B2B, aberto, para demonstrar como desenvolver uma solução de delivery exclusiva para pessoas que possuem intolerância a glúten e lactose, baseado em experiências e fatos reais. Neste projeto enfatizamos a **Jornada de Análise de Negócio** aplicada a **Gestão de Requisitos de Software** com objetivo de construir software de valor.
+É um projeto de plataforma de negócio digital multilateral, envolve B2C e B2B, aberto, para demonstrar como desenvolver uma solução de delivery exclusiva para pessoas que possuem intolerância a glúten e lactose, baseado em experiências e fatos reais. Neste projeto enfatizamos a **Jornada de Análise de Negócio Ágil** com objetivo de construir software de valor.
 
 ![](http://www.etecnologia.com.br/images/fars/banner-ihealthfood.png)
 
 # Visão do iHealthFood
 **Para pessoas que tem intolerância a glúten e/ou lactose o iHealthFood é um serviço de entrega exclusivo através de aplicativo móvel e web, intuitivo, seguro e fácil de usar que oferece a possibilidade de encontrar os melhores restaurantes que fornecem comidas e pratos deliciosos sem glúten e sem lactose.Diferente de outros, nosso serviço é dedicado para clientes que se necessitam comprar alimentos sem glúten e sem lactose.**
 
-# Desafios de Análise de Requisitos de Software:
-**Objetivo primário dos Desafios é especificar todos os requisitos de software que farão partes das próximas Sprints.** 
+# Desafios de Análise de Negócio Ágil:
+**Objetivo primário dos Desafios é fazer Discovery e Design para construção de Solução que gere valor paa as pessoas utilizando técnicas de Análise de Negócio e Práticas Ágeis.** 
 
-O trabalho do Analista de Requisitos começa no momento que os artefatos: Visão e Backlog do Serviço estão prontos, geralmente este trabalho acontece em um Workshop de Requisitos para descobrir os requisitos, entender as pessoas, entender o negócio e especificar os requisitos. 
+**Neste projeto a fase de Discovery já está pronta:**
+O trabalho do Analista de Negócio Ágil começa na Fase de Discovery: Mais precisamente na identificação do problema de negócio através da Business Story (História de Negócio) que é um artefato que descreve em linhas gerais a declaração do problema.
+Em seguida é descoberto quem são as partes interessadas e qual valor elas esperam da solução. O valor é traduzido em termos de beneficios e/ou ganhos.
+Os próximos passos é descoberta dos itens de contexto de negócio, a ideia preliminar de solução e quais são os requisitos de mudanças que são necessários para que a solução de negócio seja implementada com sucesso.
+
+O desafio que o Analista de Negócio Ágil deve se concentrar é fazer a Fase de Design da Solução. Essa fase é composta por um conjunto de artefatos que descrevem como a solução foi pensada, planejada e como será executada.
+
+
+
+
+: Visão e Backlog do Serviço estão prontos, geralmente este trabalho acontece em um Workshop de Requisitos para descobrir os requisitos, entender as pessoas, entender o negócio e especificar os requisitos. 
 O workshop deve ser colaborativo, ou seja, participam o Dono de Negócio, Desenvolvedores e Testadores de forma ativa.
 
 Contudo, aqui você trabalhará sozinho, isso é comum em algumas empresas, existe a opção de chamar seus amigos para ajuda-lo, antes
@@ -24,8 +34,7 @@ Recomendamos a leitura dos arefatos de negócio devem ser lidos e compreendidos,
 - **Mapa de Fluxo de Valor**: Mostra quais as atividades devem ser feitas para garantir a geração de valor
 - **Regras de Negócio**: Apresenta todas as regras de negócio que devem ser aplicadas ao iHealthFood
 
-Para que você exercite suas habilidades de Análise de Requisitos de Software propomos 5 desafios 
-apresentados abaixo:
+Para que você exercite suas habilidades de Análise de Negócio Ágil propomos 5 desafios apresentados abaixo:
 
 **Desafio-1 – Identificação dos itens do Backlog que devem ser especificados. Leve em consideração o nível de prioridade dos itens:**
 - Definir quais itens do Backlog de Serviço devem ser especificados.  
