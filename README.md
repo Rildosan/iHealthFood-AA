@@ -19,15 +19,18 @@ Os próximos passos é descoberta dos itens de contexto de negócio, a ideia pre
 O desafio que o Analista de Negócio Ágil deve se concentrar é fazer a Fase de Design da Solução. Essa fase é composta por um conjunto de artefatos que descrevem como a solução foi pensada, planejada e como será executada.
 
 Artefatos que devem ser feitos:<BR>
--**Valor:**
+**Valor:**
 - Modelo de Negócio da Solução: - Este modelo mostra como a empresa captura valor gerado pela solução
 - Canvas da Proposta de Valor: - O canvas demonstra como a solução entrega valor para os clientes.<BR>
--**Regras de Negócio:**
-- Lista de Regras de Negócio<BR>
--**Solução:**
+<BR>
+**Regras de Negócio:**
+ Lista de Regras de Negócio<BR>
+<BR>
+**Solução:**
 - Visão da Solução já esta pronta!
 - Backlog da Solução: Lista de todos os requisitos e demais itens que são relevante para desenvolvimento da Solução<BR>
--**Plano de Release das Entregas:**
+<BR>
+**Plano de Release das Entregas:**
 - Plano com serão as entregas incrementais do produto/serviço
 
 Você poderá trabalhar sozinho, pois isso é comum em algumas empresas, mas poderá convidar seus amigos para ajuda-lo, antes
