@@ -57,5 +57,5 @@ Para você exercitar suas habilidades de Análise de Negócio Ágil propomos 5 d
 
 **Desafio-4 - Construção do MVP e do Backlog da Solução**<BR>
 
-**Desafio-5 - Desenvolvimento do Plano de Release de Entregas**<BR>
+**Desafio-5 - Desenvolvimento do Protótipo**<BR>
 
