@@ -52,16 +52,21 @@ Para você exercitar suas habilidades de Análise de Negócio Ágil propomos 5 d
 **Desafio-1 – Construção do Modelo de Negócio da Solução**<BR>
 Demonstra como a solução posssibita a captura de valor pela empresa<BR>
 [Canvas de Modelo de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegóciov1.pdf)<BR>
-[Exemplo de Canvas de Modelo de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegócioExemplov1.pdf)
+[Exemplo de Canvas de Modelo de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegócioExemplov1.pdf)<BR>
 
 **Desafio-2 – Elaboração do Canvas de Proposta de Valor**<BR> 
 Mostra como a solução entregará valor para os clientes
+[Canvas de Proposta de Valor](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdaPropostadeValorv1.pdf)<BR>
+[Exemplo de Canvas de Proposta de Valor](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdaPropostadeValorExemplov1.pdf)<BR>
 
 **Desafio-3 - Especificação de Regras de Negócio**<BR>
 Especificação das Regras de Negócio que moldam o comportamento de negócio na geração de valor
+[Template de Regras de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/RegrasdeNegocioTemplatev1.pdf) <BR>
+[Exemplos de Regras de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/RegrasdeNegocioExemplos.pdf)<BR>
 
 **Desafio-4 - Construção do MVP e do Backlog da Solução**<BR>
 Apresenta a lista de tudo que é necessário para desenvolver a solução miníma viável. 
+[Exemplos Backlog da Solução](http://www.etecnologia.com.br/jornada/projeto-ihf/BacklogdoServiçoExemplov3.1.pdf)<BR>
 
 **Desafio-5 - Desenvolvimento do Protótipo da Solução**<BR>
 Mostra uma simples visão da navegação e do fluxo de valor presente na solução
