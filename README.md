@@ -50,23 +50,23 @@ Antes de fazer os desafios, você deve se aprofundar no entendimento do problema
 Para você exercitar suas habilidades de Análise de Negócio Ágil propomos 5 desafios:
 
 **Desafio-1 – Construção do Modelo de Negócio da Solução**<BR>
-Demonstra como a solução posssibita a captura de valor pela empresa<BR>
+Modelo de Negócio demonstra como a solução posssibita a captura de valor gerado pela solução pela empresa<BR>
 [Canvas de Modelo de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegóciov1.pdf)<BR>
 [Exemplo de Canvas de Modelo de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegócioExemplov1.pdf)<BR>
 
 **Desafio-2 – Elaboração do Canvas de Proposta de Valor**<BR> 
-Mostra como a solução entregará valor para os clientes<BR>
+Canvas mostra como a solução entregará valor para os clientes<BR>
 [Canvas de Proposta de Valor](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdaPropostadeValorv1.pdf)<BR>
 [Exemplo de Canvas de Proposta de Valor](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdaPropostadeValorExemplov1.pdf)<BR>
 
 **Desafio-3 - Especificação de Regras de Negócio**<BR>
-Especificação das Regras de Negócio que moldam o comportamento de negócio na geração de valor<BR>
+As Regras de Negócio moldam o comportamento de negócio da solução na geração de valor<BR>
 [Template de Regras de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/RegrasdeNegocioTemplatev1.pdf) <BR>
 [Exemplos de Regras de Negócio](http://www.etecnologia.com.br/jornada/projeto-ihf/RegrasdeNegocioExemplos.pdf)<BR>
 
 **Desafio-4 - Construção do MVP e do Backlog da Solução**<BR>
-Apresenta a lista de tudo que é necessário para desenvolver a solução miníma viável. <BR>
+Backlog é uma lista de tudo que é necessário para desenvolver a solução miníma viável. <BR>
 [Exemplos Backlog da Solução](http://www.etecnologia.com.br/jornada/projeto-ihf/BacklogdoServiçoExemplov3.1.pdf)<BR>
 
 **Desafio-5 - Desenvolvimento do Protótipo da Solução**<BR>
-Mostra uma simples visão da navegação e do fluxo de valor presente na solução
+Protótipo mostra uma simples visão da navegação e do fluxo de valor presente na solução
