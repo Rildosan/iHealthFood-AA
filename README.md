@@ -49,10 +49,12 @@ Antes de fazer os desafios, você deve se aprofundar no entendimento do problema
 <BR>
 Para você exercitar suas habilidades de Análise de Negócio Ágil propomos 5 desafios:
 
-**Desafio-1 – Construção do Modelo de Negócio da Solução**
+**Desafio-1 – Construção do Modelo de Negócio da Solução**<BR>
 Demonstra como a solução posssibita a captura de valor pela empresa
+[Modelo](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegóciov1.pdf)
+[Exemplo](http://www.etecnologia.com.br/jornada/projeto-ihf/CanvasdeModelodeNegócioExemplov1.pdf)
 
-**Desafio-2 – Elaboração do Canvas de Proposta de Valor** 
+**Desafio-2 – Elaboração do Canvas de Proposta de Valor**<BR> 
 Mostra como a solução entregará valor para os clientes
 
 **Desafio-3 - Especificação de Regras de Negócio**<BR>
